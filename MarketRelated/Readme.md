@@ -1,0 +1,18 @@
+- **Intellectia - The #1 AI Investment Platform, Where AI meets your ambition!** https://intellectia.ai/
+- **Zywave** Provides AI-driven insights for financial advisors, helping them analyze market trends and client portfolios.
+  - 
+- **StockGeist**
+  - An AI tool that analyzes social media sentiment and trends to provide insights into stock market movements.
+  - https://www.stockgeist.ai/
+- Numerai
+  - A hedge fund that leverages machine learning and data science to create advanced trading models and strategies, allowing data scientists to contribute their insights.
+  - https://numer.ai/
+- **TickerTags**
+  - Uses AI to monitor trends and mentions across financial markets, helping traders identify key trading signals and market movements.
+  - https://www.tickertags.com/
+- **Sentifi**
+  - Harnesses AI to analyze social media and news sentiment, helping predict market trends and movements.
+- **AlphaSense**
+  - Uses AI to analyze financial documents, offering valuable insights for smarter investment decisions.
+  - https://www.alpha-sense.com/
+- 
