@@ -1,6 +1,9 @@
-- **Intellectia - The #1 AI Investment Platform, Where AI meets your ambition!** https://intellectia.ai/
-- **Zywave** Provides AI-driven insights for financial advisors, helping them analyze market trends and client portfolios.
-  - 
+## Companies at the cross section of Financial Market and AI
+- **Intellectia - The #1 AI Investment Platform, Where AI meets your ambition!**
+  - https://intellectia.ai/
+- **Zywave**
+  - Provides AI-driven insights for financial advisors, helping them analyze market trends and client portfolios.
+  - https://www.zywave.com/
 - **StockGeist**
   - An AI tool that analyzes social media sentiment and trends to provide insights into stock market movements.
   - https://www.stockgeist.ai/
